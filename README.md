@@ -1,4 +1,4 @@
-# CRUD API Adonis example
+# CRUD API AdonisJS example
 
 1. Bodyparser
 2. Authentication - JWT
